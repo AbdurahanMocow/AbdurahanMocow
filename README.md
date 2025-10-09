@@ -40,7 +40,8 @@ Each project is designed to strengthen my practical understanding of computation
 Over the next year I plan to:  
 1. Build three reproducible bioinformatics projects.  
 2. Refine my statistical and coding foundations.  
-3. Apply for an MSc in Bioinformatics at Oxford or Cambridge, with a focus on transparent, patient-centred genomics.
+3. Apply for an MSc in Bioinformatics, with a focus on transparent, patient-centred genomics.
+4. Develop **GeneDecode**, an independent platform for transparent genomic data interpretation.
 
 ---
 
