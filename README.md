@@ -20,7 +20,6 @@ I build machine learning models and software pipelines that turn messy, high-dim
 | **Languages** | Python, SQL, Go (Golang), Julia, C++ (Arduino), Bash |
 | **Machine Learning & Vision** | PyTorch, Scikit-Learn, TensorFlow Lite (Micro), OpenCV |
 | **Data & Numerical Computing** | Pandas, NumPy, FFTW, JLD2, Matrix-Free Optimisation |
-| **Machine Learning (intro)** | scikit-learn |
 | **Systems & Deployment** | Git, Linux (WSL), Streamlit, REST APIs (Ensembl), LaTeX |
 
 ---
