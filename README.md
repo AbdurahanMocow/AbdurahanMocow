@@ -19,11 +19,12 @@ I build machine learning models and software pipelines that turn messy, high-dim
 ### Selected Systems & Codebases
 - **GeneDecode: High-Throughput Genomic Parser & Analytics Engine:**  
   Automated Python and Pandas pipeline that ingests unstructured 23andMe-style genotype arrays and parses over 836,000 discrete variant records per user. Integrates the Ensembl REST API inside an interactive Streamlit interface to automate variant annotation and cut 20+ hours of manual data preparation per dataset. 
-- **FlightPath: Sub-50ms Edge-AI Ballistic Trajectory Predictor:*  
+- **FlightPath: Sub-50ms Edge-AI Ballistic Trajectory Predictor:**  
   Machine Learning Lead for a dual-microcontroller wearable and self-labelling target system built on the Arduino Nano 33 BLE Rev2. Processes 100 Hz 9-axis IMU, wrist flex, and thumb force-sensitive resistor (FSR) streams over 150 ms pre-release windows, using Random Forest and INT8-quantised 1D-CNNs to predict projectile landing zones in mid-air before impact. 
-- **SOMAS2026: Decentralised Multi-Agent Governance Simulator*  
+- **SOMAS2026: Decentralised Multi-Agent Governance Simulator**  
   architecture and rule-evaluation engine written in Go. Models common-pool resource depletion, collective threshold provisioning, and dynamic constitutional voting across deterministic multi-seed Monte Carlo trials.
-  - **Matrix-Free Convex Optimisation & Sparse Signal Recovery:*  
+  
+  - **Matrix-Free Convex Optimisation & Sparse Signal Recovery:**  
 High-dimensional numerical solvers written in Julia. Implements matrix-free FFT/IFFT adjoint operators, alternating minimisation for collaborative filtering (Netflix matrix completion), Orthogonal Matching Pursuit (OMP), Subspace Pursuit, and Alternating Proximal Gradient dictionary learning.
 
 ---
