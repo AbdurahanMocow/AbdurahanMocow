@@ -37,7 +37,7 @@ Over the next year I plan to:
 ---
 
 ### Contact
-**LinkedIn**: linkedin.com/in/abdurahan-mocow
+**LinkedIn**: https://www.linkedin.com/in/abdurahan-mocow
 
 **Email**: AbdurahanMocow@gmail.com
 
