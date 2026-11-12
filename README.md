@@ -6,14 +6,6 @@ I build machine learning models and software pipelines that turn messy, high-dim
 
 ---
 
-### Current interests
-- Genetic data formats and variant interpretation (VCF, FASTA, FASTQ)  
-- Integrating public resources such as Ensembl, ClinVar and the GWAS Catalogue  
-- Developing clear, reproducible code for biological questions  
-- Linking algorithmic thinking with clinical relevance  
-
----
-
 ### Technical Stack
 | Layer | Tools & Frameworks |
 |------------|-------|
